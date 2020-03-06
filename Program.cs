@@ -47,4 +47,3 @@ namespace Assignment
         }
     }
 }
-// Final OOD project by Andrew Kevin Eymard. (BSCP|CS|13|016)
