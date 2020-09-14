@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "sdc",
+    "owner": "fd",
+    "description": "fd"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "fd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "fd"
+  }
+}
